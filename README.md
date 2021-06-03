@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Roozbeh Eslami
 
 - 👀 I’m interested in Front-End Programming.
-- 👨🏻‍💻 I’m currently working at **[Asa Co.](https://www.asax.ir)** as a full-time front-end engineer.
+- 👨🏻‍💻 I’m currently working at **[Asa Co.](https://asax.ir)** as a full-time front-end engineer.
 - ✉️ You can reach me at eslami.roozbeh@gmail.com or **[roozbeheslami.com](http://www.roozbeheslami.com)**
 
 
