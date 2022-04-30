@@ -1,7 +1,7 @@
 ## 👋 Hi My name is Roozbeh Eslami
 ### Front-End Engineer
 
-I began programming in high school and worked as a freelance web designer during my studies at university so that I could understand the importance of a well-designed and functional website. My master's degree is in computer software engineering from Islamic Azad University and currently I work as a full-time front-end engineer at Asa Co.
+I began programming in high school and worked as a freelance web designer during my studies at university so that I could understand the importance of a well-designed and functional website. My master's degree is in computer software engineering from Islamic Azad University.
 
 *   🌍  I'm based in Tehran, Iran
 *   🖥️  See my portfolio at [My Personal Website](http://www.roozbeheslami.com)
