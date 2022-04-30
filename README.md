@@ -1,8 +1,15 @@
-### 👋 Hi, I'm Roozbeh Eslami
+👋 Hi My name is Roozbeh Eslami
+===============================
 
-- 👀 I’m interested in Front-End Programming.
-- 👨🏻‍💻 I’m currently working at **[Asa Co.](https://asax.ir)** as a full-time front-end engineer.
-- ✉️ You can reach me at eslami.roozbeh@gmail.com or **[roozbeheslami.com](http://www.roozbeheslami.com)**
+Front-End Engineer
+------------------
+
+I began programming in high school and worked as a freelance web designer during my studies at university so that I could understand the importance of a well-designed and functional website. My master's degree is in computer software engineering from Islamic Azad University and currently I work as a full-time front-end engineer at Asa Co.
+
+*   🌍  I'm based in Tehran, Iran
+*   🖥️  See my portfolio at [My Personal Website](http://www.roozbeheslami.com)
+*   👨🏻‍💻  I’m currently working at **[Asa Co.](https://asax.ir)** as a full-time front-end engineer.
+*   ✉️  You can contact me at [eslami.roozbeh@gmail.com](mailto:eslami.roozbeh@gmail.com)
 
 ### Skills
 <p align="left">
