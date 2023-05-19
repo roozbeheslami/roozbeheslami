@@ -17,19 +17,19 @@ I began programming in high school and worked as a freelance web designer during
 
 <p align="left">
   <a href="https://www.codepen.io/roozbeheslami" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codepen" width="32" height="32"/>
+    <img src="https://skillicons.dev/icons?i=codepen" width="40" height="40"/>
   </a>
   <a href="https://discord.com/users/Roozbeh Eslami#5542" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="32" height="32"/>
+    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40"/>
   </a>
   <a href="http://www.instagram.com/roosbeh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="32" height="32"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/roozbeheslami" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
   </a>
   <a href="https://www.twitter.com/roozbeh_eslami" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="32" height="32"/>
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40"/>
   </a>
 </p>
 
