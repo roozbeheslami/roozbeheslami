@@ -10,12 +10,28 @@ I began programming in high school and worked as a freelance web designer during
 
 ### Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,react,nextjs,html,css,sass,webpack,docker,git,bootstrap,materialui,tailwind" width="500"  />
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,react,nextjs,html,css,sass,webpack,docker,git,bootstrap,materialui,tailwind" width="700"  />
 </p>
                     
 ### Socials
-                  
-<p align="left"> <a href="https://www.codepen.io/roozbeheslami" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Roozbeh Eslami#5542" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/roosbeh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/roozbeheslami" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/roozbeh_eslami" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+<p align="left">
+  <a href="https://www.codepen.io/roozbeheslami" target="_blank">
+    <img src="https://skillicons.dev/icons?i=codepen" width="32" height="32"/>
+  </a>
+  <a href="https://discord.com/users/Roozbeh Eslami#5542" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="32" height="32"/>
+  </a>
+  <a href="http://www.instagram.com/roosbeh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="32" height="32"/>
+  </a>
+  <a href="https://www.linkedin.com/in/roozbeheslami" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32"/>
+  </a>
+  <a href="https://www.twitter.com/roozbeh_eslami" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="32" height="32"/>
+  </a>
+</p>
 
 <!---
 roozbeheslami/roozbeheslami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
