@@ -1,4 +1,4 @@
-## 👋 Hi My name is Roozbeh Eslami
+## 👋 Hi, My name is Roozbeh Eslami
 ### Web designer and Front-end engineer
 
 I am skilled in designing and developing fully responsive websites using modern programming languages and frameworks, including HTML5, CSS3 (SASS), and JavaScript (ECMAScript 6+), as well as JS Frameworks such as VueJS/NuxtJS and ReactJS/NextJS. Additionally, I am experienced in using Node package manager, Webpack module bundler, and version control systems like Git. I have worked collaboratively with designers and back-end developers as part of agile teams.
