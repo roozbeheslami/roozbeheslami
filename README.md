@@ -1,7 +1,6 @@
 ## 👋 Hi My name is Roozbeh Eslami
 ### Web designer and Front-end engineer
 
-I started programming in high school and worked as a freelance web designer during my studies at university. I hold a master's degree in computer software engineering from Islamic Azad University and currently I work as a full-time front-end engineer at Asa Co.
 I am skilled in designing and developing fully responsive websites using modern programming languages and frameworks, including HTML5, CSS3 (SASS), and JavaScript (ECMAScript 6+), as well as JS Frameworks such as VueJS/NuxtJS and ReactJS/NextJS. Additionally, I am experienced in using Node package manager, Webpack module bundler, and version control systems like Git. I have worked collaboratively with designers and back-end developers as part of agile teams.
 While my primary focus is on front-end development, I am also interested in exploring new design trends, as well as emerging technologies such as web3 and blockchain. This suggests that I have a strong desire to stay up-to-date with the latest developments in my field and I am committed to continuous learning and professional growth.
 
